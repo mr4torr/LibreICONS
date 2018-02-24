@@ -19,3 +19,8 @@ TODO:
 - Continue adding Colour Icons and editing existing ones.
 
 ![LibreICONS](svg-icons.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmr4torr%2FLibreICONS.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmr4torr%2FLibreICONS?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmr4torr%2FLibreICONS.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmr4torr%2FLibreICONS?ref=badge_large)
